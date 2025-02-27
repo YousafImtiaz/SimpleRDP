@@ -24,3 +24,7 @@ Adding a new connection:
 4. Enter domain (optional): anonymous.local
 - Connection to 192.168.x.x saved.
  - Connect now? (y/n):
+
+# Credential Storage
+
+The credentials entered are saved to a local json file in the present directory.
