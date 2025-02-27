@@ -23,4 +23,4 @@ Adding a new connection:
 3. Enter password: anonymous
 4. Enter domain (optional): anonymous.local
 - Connection to 192.168.x.x saved.
-  Connect now? (y/n):
+ - Connect now? (y/n):
