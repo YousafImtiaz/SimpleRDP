@@ -18,9 +18,9 @@ SimpleRDP
 Enter your choice (1-5): 2
 
 Adding a new connection:
-Enter IP address: 
-Enter username: 
-Enter password: 
-Enter domain (optional): 
-Connection to  saved.
+Enter IP address: 192.168.x.x
+Enter username: anonymous
+Enter password: anonymous
+Enter domain (optional): anonymous.local
+Connection to 192.168.x.x saved.
   Connect now? (y/n):
