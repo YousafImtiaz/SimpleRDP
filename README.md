@@ -15,4 +15,12 @@ SimpleRDP
 4. Connect to a saved connection
 5. Exit
 
-Enter your choice (1-5):
+Enter your choice (1-5): 2
+
+Adding a new connection:
+Enter IP address: 
+Enter username: 
+Enter password: 
+Enter domain (optional): 
+Connection to  saved.
+  Connect now? (y/n):
