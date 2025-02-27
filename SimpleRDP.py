@@ -37,6 +37,10 @@ def list_connections(connections):
 
 # Delete a saved connection
 def delete_connection(connections):
+    if not connections:
+        print("No saved connections found. \n")
+        return
+
     list_connections(connections)
     try:
         idx = int(input("\nEnter the number of the connection to delete: "))
